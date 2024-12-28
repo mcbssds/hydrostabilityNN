@@ -1,21 +1,14 @@
 # hydrostabilityNN
 
-This code repository is associated with the following manuscript:
+This code repository is associated with the manuscript <br>
+David Silvester, 
+<i>Machine learning for hydrodynamic stability.</i> <br>
+https://arxiv.org/abs/2407.09572 <br>
 
-<ol type="o">
-  <li>
-    Silvester, David,
-    Machine learning for hydrodynamic stability. 
-    arXiv preprint<br>
-    https://arxiv.org/abs/2407.09572
-  </li>
-</ol>
+<hr>
 
 The labelled data for the test problems can be generated using IFISS 3.7<br>
-https://github.com/mcbssds/IFISS_download
-
-The diary and associated result files included in this repository were generated 
-using MATLAB R2024b running on a 2018 MacBook Pro running MacOS 13.6.9. 
+https://github.com/mcbssds/IFISS_download <br>
 
 The driver for generating <i>symmetry-breaking</i> channel flow data is<br>
 <TT>flowtest.m</TT>
@@ -32,8 +25,13 @@ The driver for generating periodic solutions to the <i>Elder test problem</i> is
 The associated diary file for representative model parameters is<br>
 <TT>wubstest32.txt</TT><br>
 
+The diary and associated result files included in this repository were generated 
+using MATLAB R2024b running on a 2018 MacBook Pro running MacOS 13.6.9. 
 
-To test the data processing software, download and unpack the file<br>
+
+<hr>
+
+To check out the data-processing software, download and unpack the file<br>
 <TT>PythonML.gz</TT><br>
 The results in the paper were generated using Python 3.9.6 
 
