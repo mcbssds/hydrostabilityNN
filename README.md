@@ -26,7 +26,7 @@ The associated diary file for representative model parameters is<br>
 <TT>wubstest32.txt</TT><br>
 
 The diary and associated result files included in this repository were generated 
-using MATLAB R2024b running on a 2018 MacBook Pro running MacOS 13.6.9. 
+using MATLAB R2054b running on a 2025 MacBook Pro running MacOS 15.7.3. 
 
 
 <hr>
